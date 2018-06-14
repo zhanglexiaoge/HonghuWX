@@ -1,0 +1,11 @@
+<view class="container">
+ 
+   <view class="section__ctn">
+     <image class="image_frame" src="{{imageUrl}}" mode="aspectFill">  
+</image>  
+      </view>
+  <view class="download" bindtap="downloadtap">
+     <button  open-type="download"> 下载并保存到相册</button>
+  </view>
+ 
+</view>

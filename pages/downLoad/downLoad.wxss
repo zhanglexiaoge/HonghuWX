@@ -1,0 +1,6 @@
+.download {
+  margin-top: 20px;
+}
+.section__ctn{
+  margin: 0px;
+}
